@@ -3,3 +3,15 @@
     margin-left: 549.5px;
     text-decoration: underline;
 }
+.menuInicial a{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    list-style: none;   
+
+}
+li{
+    display: inline;
+    margin-left: auto;
+    padding: 100px;
+}
